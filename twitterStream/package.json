@@ -1,0 +1,6 @@
+{
+  "main": "twitter.js",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  }
+}
